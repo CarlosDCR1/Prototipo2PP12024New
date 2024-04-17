@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1713041344 source:c:\users\victor\desktop\semestre 3\progra1\juegos\prototipo parcial 2\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713041344 c:\users\victor\desktop\semestre 3\progra1\juegos\prototipo parcial 2\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713041344 source:c:\users\victor\desktop\semestre 3\progra1\juegos\prototipo parcial 2\src\menug.cpp
+	"menuG.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713041355 c:\users\victor\desktop\semestre 3\progra1\juegos\prototipo parcial 2\include\menug.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713041475 source:c:\users\victor\desktop\semestre 3\progra1\juegos\prototipo parcial 2\main.cpp
+	<iostream>
+	<usuario.h>
+	<menuG.h>
+
+1713303228 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\prototipo parcial 2\main.cpp
+	<iostream>
+	<usuario.h>
+	<menuG.h>
+
+1713041344 c:\users\calde\desktop\umg\progra1\repaso examen 2\prototipo parcial 2\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713041355 c:\users\calde\desktop\umg\progra1\repaso examen 2\prototipo parcial 2\include\menug.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713302440 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\prototipo parcial 2\src\menug.cpp
+	"menuG.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713302869 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\prototipo parcial 2\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713316266 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\main.cpp
+	<iostream>
+	<fstream>
+	<usuario.h>
+	<menuG.h>
+	"menuInfo.h"
+	"menuCrud.h"
+
+1713041344 c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713324085 c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\include\menug.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372084 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\src\menug.cpp
+	"menuG.h"
+	"menuCrud.h"
+	"menuInfo.h"
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713325755 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372573 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\src\menucrud.cpp
+	"menuCrud.h"
+	"menuInfo.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371962 c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\include\menucrud.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372143 c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\include\menuinfo.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372392 source:c:\users\calde\desktop\umg\progra1\repaso examen 2\mi prototipo\src\menuinfo.cpp
+	"menuCrud.h"
+	"menuInfo.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
